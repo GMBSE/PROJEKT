@@ -26,7 +26,7 @@ public class salam {
 		WebDriver w=new HtmlUnitDriver();
 		w.get("https://www.check24.de/handytarife/vergleich/?data_included=1000&minutes_included=all&select_contract=-24&young_tariff=no&tid=CH24_MF_GO_1&wpset=google_mobilfunk_01&gclid=Cj0KCQiAvrfSBRC2ARIsAFumcm8mlN6DXXITR7OCn-3lnOYlzyEpWcYwOT4XEPv3bDStDWq49hgGZ9IaAqlsEALw_wcB&orderby=empfehlung_preis");
 		
-		//Change 
+		//Change gasimovde
 		System.out.println();
         //w.quit();
 	}
